@@ -1,0 +1,30 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "/bin/python3",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~/../build/"
+        }
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.parameterHints.enabled": false,
+    "prettier.htmlWhitespaceSensitivity": "ignore",
+    "prettier.trailingComma": "none",
+    "bracketPairColorizer.depreciation-notice": false,
+    "glassit.alpha": 220,
+    "workbench.colorTheme": "Code Blue",
+    "editor.fontFamily": "\"JetBrains Mono\"",
+    "editor.fontLigatures": true,
+    "tabnine.experimentalAutoImports": true,
+    "prettier.tabWidth": 4,
+    "window.zoomLevel": -3,
+    "liveServer.settings.donotShowInfoMsg": true
+}
