@@ -1,0 +1,19 @@
+{% extends "default.html"%}
+
+{% block content0 %}
+<!-- <h1>HELLO WÖLD!</h1> -->
+<div class="article_list">
+
+    {% for elem in Article %}
+    <!-- <a class="article" href="/article/{{elem.article_link}}"> -->
+    <a class="article" href="/article/{{elem.id}}">
+        <h5>by {{elem.article_author}};  {{elem.article_date}}</h5>
+        <h3>{{elem.article_name}}</h3>
+        <p>{{elem.snippet}}…</p>
+        <h5 class="tags">{{elem.article_tags}}</h5>
+    </a>
+    {% endfor %}
+
+
+</div>
+{% endblock content0 %}

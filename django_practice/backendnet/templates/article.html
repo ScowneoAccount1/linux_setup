@@ -1,0 +1,9 @@
+{% extends 'default.html' %}
+
+{% block content0 %}
+<div class="article article_text" href="/article/{{elem.id}}">
+    <h5>by {{article.article_author}};  {{article.article_date}}</h5>
+    <h3 style="font-size:50px">{{article.article_name}}</h3>
+    <p>{{article.article_body}}</p>
+</div>
+{% endblock content0 %}
