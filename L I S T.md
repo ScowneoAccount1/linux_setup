@@ -35,6 +35,7 @@
     Quick tile to * = Meta+whatever
     Switch one Desktop on the X = Ctrl+Alt+Arrowkew
     Window to Desktop 1-4 = ctrl+f1-4
+    
 
 
 **III Websites:**
