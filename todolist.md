@@ -17,6 +17,7 @@
     3· themes: dracula, nord, ariake dark, *eva dark italic*
         3.1· Material Icon theme
         3.2· Editor font: [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+    4· firefox: install theme from 'https://github.com/molecule47/idyllic-firefox'
 
 
 **II KDE**
